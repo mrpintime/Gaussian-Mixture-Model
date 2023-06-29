@@ -14,4 +14,5 @@ Each pixel would be a data point with three features (r, g, b) (Or 1 feature if 
 2. Import Libraries
 3. Add and Reshape Image (Prepareing Image)
 4. Change Image to Black and White
-5. Use Silhouette score to find best K 
+5. Plot clusters of image (6 Components)
+6. Use Silhouette score to find best K (For Practice Purpose and Test This Score Metric)
