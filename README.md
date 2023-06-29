@@ -16,3 +16,7 @@ Each pixel would be a data point with three features (r, g, b) (Or 1 feature if 
 4. Change Image to Black and White
 5. Plot clusters of image (6 Components)
 6. Use Silhouette score to find best K (For Practice Purpose and Test This Score Metric)
+
+
+
+References for silhouette score: [Link](https://scikit-learn.org/stable/modules/clustering.html#silhouette-coefficient)
