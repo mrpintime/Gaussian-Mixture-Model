@@ -20,3 +20,9 @@ Each pixel would be a data point with three features (r, g, b) (Or 1 feature if 
 
 
 References for silhouette score: [Link](https://scikit-learn.org/stable/modules/clustering.html#silhouette-coefficient)
+
+---
+
+Note: **I appreciate you if i can have your opinion about the project 🍾 😬.**  
+
+Send your opinions throughout [My site]('mrpintime.github.io/') :love_letter:
